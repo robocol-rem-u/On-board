@@ -21,7 +21,7 @@ Arduino IDE, Python, Rpi3
 
 ## Versioning
 
-All versions available in [this repository](https://github.com/On-board/WepApp). 
+All versions available in [this repository](https://github.com/robocol-rem-u/On-board). 
 
 ## Authors
 
